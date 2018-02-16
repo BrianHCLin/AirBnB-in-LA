@@ -2,7 +2,7 @@
 
 This project is done by Lily Damron, Brian Lin, Aida Ylanan, Ignat Kulinka, Liam Carrigan.
 
-Contributions
+Contributions\n
 Dataset selection and region variable research were done by Aida and Liam. She added
 the new variable to the dataset, with help from Ignat. Brian cleaned up the dataset
 and was instrumental in coding the strictness variable. He created linear models and
